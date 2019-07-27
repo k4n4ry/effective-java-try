@@ -1,6 +1,4 @@
-package com.company.con.company.no02;
-
-import jdk.nashorn.internal.runtime.NumberToString;
+package com.company.no02;
 
 public class NutritionFacts {
     private final int servingSize;

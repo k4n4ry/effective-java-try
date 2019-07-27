@@ -1,11 +1,11 @@
 package com.company;
 
-import com.company.con.company.no02.No02;
+import com.company.no03.No03;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        No02.exec();
+        No03.exec();
     }
 }

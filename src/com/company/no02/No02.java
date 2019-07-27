@@ -1,4 +1,4 @@
-package com.company.con.company.no02;
+package com.company.no02;
 
 public class No02 {
 
@@ -8,7 +8,7 @@ public class No02 {
                 .calories(100)
                 .sodium(35)
                 .carbohydrate(27)
-                .build();
+                 .build();
 
     }
 }
