@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4485cf3d-51ce-4b17-ba15-b2a52b9a7baa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Effective-Java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Effective-Java/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/no04/UtilityClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/no04/UtilityClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.29221347">
+    <splitter split-orientation="horizontal" split-proportion="0.45494312">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
@@ -88,7 +86,7 @@
               <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                 <state split_layout="SPLIT">
                   <first_editor relative-caret-position="65">
-                    <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                    <caret line="5" selection-start-line="5" selection-end-line="5" />
                   </first_editor>
                   <second_editor>
                     <markdownNavigatorState />
@@ -100,8 +98,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/no04/UtilityClass.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="91">
-                  <caret line="7" column="38" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="38" />
+                <state relative-caret-position="104">
+                  <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
                   <folding>
                     <element signature="e#82#83#0" expanded="true" />
                     <element signature="e#123#124#0" expanded="true" />
@@ -137,10 +135,10 @@
         <option value="$PROJECT_DIR$/src/com/company/no03/ElvisEnum.java" />
         <option value="$PROJECT_DIR$/src/com/company/no03/No03.java" />
         <option value="$PROJECT_DIR$/src/com/company/no04/No04.md" />
-        <option value="$PROJECT_DIR$/src/com/company/no04/UtilityClass.java" />
         <option value="$PROJECT_DIR$/src/com/company/no04/No04.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/company/no04/UtilityClass.java" />
       </list>
     </option>
   </component>
@@ -298,7 +296,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="65">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -310,19 +308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/no04/UtilityClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -342,6 +327,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/no04/UtilityClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

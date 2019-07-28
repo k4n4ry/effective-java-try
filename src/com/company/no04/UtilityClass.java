@@ -6,6 +6,6 @@ public class UtilityClass {
     }
 
     public static final void doUtility() {
-        System.out.println("do!!");
+        System.out.println("do!!!");
     }
 }
