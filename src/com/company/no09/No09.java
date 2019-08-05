@@ -1,12 +1,10 @@
-package com.company.no08;
+package com.company.no09;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.Buffer;
 
-public class No08 {
+public class No09 {
 
     /*
     try-finally文
