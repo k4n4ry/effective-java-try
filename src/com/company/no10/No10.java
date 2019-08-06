@@ -14,5 +14,10 @@ public class No10 {
         System.out.println(cis.equals(s));
         //Stringのequalsはそのまま比較するため、falseが返却→対称性が守られていない！
         System.out.println(s.equals(cis));
+
+        //正しいequalsの実装
+        PhoneNumber pn1 = new PhoneNumber(123,456,7890);
+        PhoneNumber pn2 = new PhoneNumber(123,456,7890);
+        System.out.println(pn1.equals(pn2)); //true
     }
 }
